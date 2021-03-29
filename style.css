@@ -1046,6 +1046,8 @@ footer .icon-md:hover{
 #logo-noir{
     border:8px solid white;
     border-radius:50%;
+    width:100px;
+    height:auto;
 }
 
 .text-shadow{
