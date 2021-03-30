@@ -277,22 +277,18 @@ a:hover {
 }
 
 .navbar-brand {
-    height: auto;
+    height:auto;
     padding: 3px 15px;
     font-size: 25px;
     font-weight: normal;
-    font-weight: 600;
     line-height: 44px;
 }
 
 .navbar-brand img {
-    max-height: 200px;
+    width:300px;
+    height:auto;
     margin: 0 5px 0 0;
     display: inline;
-}
-
-.navbar-brand img[src$=svg] {
-    min-width: 100px;
 }
 
 .nav-center .navbar-brand img {
@@ -820,7 +816,7 @@ color:black;
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
